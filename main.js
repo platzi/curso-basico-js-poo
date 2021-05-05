@@ -24,7 +24,6 @@ const cursoProgBasica = new Course({
   name: "Curso Gratis de Programación Básica",
 });
 
-
 const cursoDefinitivoHTML = new Course({
   name: "Curso Definitivo de HTML y CSS",
 });
